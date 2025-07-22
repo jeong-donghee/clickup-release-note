@@ -1,0 +1,6 @@
+{
+  "apiToken": "pk_xxx",
+  "workspaceId": 12345, 
+  "docId": "docId",
+  "targetId": "targetId"
+}
